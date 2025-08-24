@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b2129c3-88a4-4942-9f9d-c1dadd96cabd" name="Changes" comment="" />
+    <list default="true" id="3b2129c3-88a4-4942-9f9d-c1dadd96cabd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/Missing_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Move_zeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Search_Insert_Position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Single_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/First_Unique_Character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Longest_common_prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/convertToTitle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,8 +43,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.First_Unique_Character.executor": "Run",
+    "Python.Longest_common_prefix.executor": "Run",
+    "Python.Missing_Number.executor": "Run",
+    "Python.Move_zeros.executor": "Run",
+    "Python.Search_Insert_Position.executor": "Run",
+    "Python.Single_number.executor": "Run",
+    "Python.convertToTitle.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">

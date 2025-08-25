@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b2129c3-88a4-4942-9f9d-c1dadd96cabd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Missing_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Move_zeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Search_Insert_Position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Single_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/First_Unique_Character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Longest_common_prefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/convertToTitle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Third_Maximum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/Anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="31gxZTzretIwNoEMGmO7v5Om41G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,6 +40,7 @@
     "Python.Move_zeros.executor": "Run",
     "Python.Search_Insert_Position.executor": "Run",
     "Python.Single_number.executor": "Run",
+    "Python.Third_Maximum.executor": "Run",
     "Python.convertToTitle.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -95,7 +87,20 @@
       <option name="presentableId" value="Default" />
       <updated>1755959572403</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding Files">
+      <option name="closed" value="true" />
+      <created>1756053900371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756053900371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b2129c3-88a4-4942-9f9d-c1dadd96cabd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Third_Maximum.py" afterDir="false" />
+    <list default="true" id="3b2129c3-88a4-4942-9f9d-c1dadd96cabd" name="Changes" comment="Adding Files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Rotate_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Rotate_array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
     "Python.Longest_common_prefix.executor": "Run",
     "Python.Missing_Number.executor": "Run",
     "Python.Move_zeros.executor": "Run",
+    "Python.Rotate_array.executor": "Run",
     "Python.Search_Insert_Position.executor": "Run",
     "Python.Single_number.executor": "Run",
     "Python.Third_Maximum.executor": "Run",
